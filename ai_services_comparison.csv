@@ -1,0 +1,6 @@
+サービス,プロバイダ,主な特徴,モデル,価格帯,用途,主な長所,制限
+ChatGPT,OpenAI,汎用AI チャットボット,GPT-3.5 GPT-4,無料/月$20,文章生成 質問応答 コーディング,高度な言語理解 多様なタスク対応,コンテキスト長に制限
+Claude,Anthropic,倫理的AI 長文処理,Claude 3 (Haiku Opus),無料/有料プラン,複雑な分析 長文作成 コーディング,長文理解 倫理的配慮,API呼び出し回数制限
+Gemini,Google,マルチモーダルAI,Gemini Pro Ultra,無料/月$20,マルチメディア処理 検索補助,Google検索との統合 画像理解,国によって利用可能性が異なる
+Microsoft Copilot,Microsoft,生成AI アシスタント,GPT-4ベース,無料/Microsoft 365に同梱,生産性ツール統合 コーディング支援,Office製品との深い統合,一部機能は有料プランのみ
+Midjourney,Midjourney Inc.,AI画像生成,V6,月$8-$60,画像 アート デザイン生成,高品質な画像生成,主に画像生成に特化
